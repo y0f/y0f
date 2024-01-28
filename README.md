@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=minuut&theme=shadow_green&show_icons=true&hide=html,blade,css" />
   <a href="https://github.com/minuut/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=minuut&show_icons=true&theme=shadow_green&hide=prs,contribs" alt="Minuut's GitHub Stats">
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=minuut&show_icons=true&theme=shadow_green" />
   </a>
 </p>
 
