@@ -30,7 +30,7 @@
 
 
 #### frontend
-![JavaScript](https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=typescript&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFF)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=redux&logoColor=FFF)
 
 ![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=redux&logoColor=FFF)
