@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="138.3 42.2 223.4 65.6" style="background: rgba(0, 0, 0, 0);">
   <defs>
     <linearGradient id="editing-gradient-gradient" x1="0" x2="1" y1="0.5" y2="0.5" gradientUnits="objectBoundingBox">
-         <stop offset="0" style="stop-color: rgb(215, 215, 215);" />
-         <stop offset="1" style="stop-color: rgb(0, 0, 0);" />
+         <stop offset="0" style="stop-color: rgb(65, 65, 65);" />
+        <stop offset="1" style="stop-color: rgb(155, 155, 155);" />
     </linearGradient>
     <style>text {
   font-size: 64px;
