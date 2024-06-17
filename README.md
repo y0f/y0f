@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/y0f/y0f/6d341f01a18dfdc70926c7697935c7ab164cad5a/tools.svg" alt="tools i use" height="60" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/tools.svg" alt="tools i use" height="60" style="max-width: 100%;">
   
 
 ![GitHub](https://img.shields.io/badge/github-black?logo=github&style=for-the-badge&logoColor=FFF)
@@ -15,7 +15,7 @@
 ![PostMan](https://img.shields.io/badge/postman-black?logo=postman&style=for-the-badge&logoColor=FFF)
 <br>
 
-<img src="https://raw.githubusercontent.com/y0f/y0f/6d341f01a18dfdc70926c7697935c7ab164cad5a/technologies.svg" alt="technologies" height="60" style="max-width: 100%;">  
+<img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/technologies.svg" alt="technologies" height="60" style="max-width: 100%;">  
 
 #### backend
 ![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=FFF)
@@ -38,7 +38,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FFF)
 <br>
 
-<img src="https://raw.githubusercontent.com/y0f/y0f/6d341f01a18dfdc70926c7697935c7ab164cad5a/databases.svg" alt="databases" height="60" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/databases.svg" alt="databases" height="60" style="max-width: 100%;">
   
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=FFF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=MariaDB&logoColor=FFF)
@@ -48,7 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=FFF)
 <br>
 
-<img src="https://raw.githubusercontent.com/y0f/y0f/6d341f01a18dfdc70926c7697935c7ab164cad5a/findmeon.svg" alt="find me" height="60" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/findmeon.svg" alt="find me" height="60" style="max-width: 100%;">
 
 [![GitHub](https://img.shields.io/badge/instagram-black?logo=instagram&style=for-the-badge&logoColor=FFF)](https://instagram.com/aarde)
 
