@@ -24,18 +24,18 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=redux&logoColor=FFF)
 
 ![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=redux&logoColor=FFF)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FFF)
+![Livewire](https://img.shields.io/badge/livewire-black.svg?logo=livewire&style=for-the-badge&logoColor=FFF)
+![Alpine.js](https://img.shields.io/badge/alpinejs-black.svg?&style=for-the-badge&logo=alpine.js&logoColor=FFF)
 ![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FFF)
 
 
 ##### backend
 ![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=FFF)
-![Livewire](https://img.shields.io/badge/livewire-black.svg?logo=livewire&style=for-the-badge&logoColor=FFF)
 ![Laravel](https://img.shields.io/badge/laravel%20-black.svg?&style=for-the-badge&logo=laravel&logoColor=FFF)
+![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=FFF&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-black.svg?logo=python&style=for-the-badge&logoColor=FFF)
 ![Django](https://img.shields.io/badge/django-black.svg?logo=django&style=for-the-badge&logoColor=FFF)
-![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=FFF&style=for-the-badge)
 ![NodeJs](https://img.shields.io/badge/node.js%20-black.svg?&style=for-the-badge&logo=node.js&logoColor=FFF)
 
 <br>
