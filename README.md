@@ -9,15 +9,26 @@
 ![GitHub](https://img.shields.io/badge/github-black?logo=github&style=for-the-badge&logoColor=FFF)
 ![GitLab](https://img.shields.io/badge/gitlab-black?logo=gitlab&style=for-the-badge&logoColor=FFF)
 ![OpenAI](https://img.shields.io/badge/openai-black?logo=openai&style=for-the-badge&logoColor=FFF)
+![Docker](https://img.shields.io/badge/docker-black?logo=docker&style=for-the-badge&logoColor=FFF)
 
+![PostMan](https://img.shields.io/badge/postman-black?logo=postman&style=for-the-badge&logoColor=FFF)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=FFF&style=for-the-badge)
 ![BurpSuite](https://img.shields.io/badge/burpsuite-black?logo=burpsuite&style=for-the-badge&logoColor=FFF)
-![PostMan](https://img.shields.io/badge/postman-black?logo=postman&style=for-the-badge&logoColor=FFF)
-<br>
+![Zap](https://img.shields.io/badge/zap-black?logo=zap&style=for-the-badge&logoColor=FFF)
 
+<br>
 <img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/technologies.svg" alt="technologies" height="60" style="max-width: 100%;">  
 
-#### backend
+##### frontend
+![JavaScript](https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFF)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=redux&logoColor=FFF)
+
+![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=redux&logoColor=FFF)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FFF)
+![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FFF)
+
+
+##### backend
 ![PHP](https://img.shields.io/badge/Php-black.svg?logo=php&style=for-the-badge&logoColor=FFF)
 ![Livewire](https://img.shields.io/badge/livewire-black.svg?logo=livewire&style=for-the-badge&logoColor=FFF)
 ![Laravel](https://img.shields.io/badge/laravel%20-black.svg?&style=for-the-badge&logo=laravel&logoColor=FFF)
@@ -27,15 +38,6 @@
 ![Go](https://img.shields.io/badge/Go-black.svg?logo=go&logoColor=FFF&style=for-the-badge)
 ![NodeJs](https://img.shields.io/badge/node.js%20-black.svg?&style=for-the-badge&logo=node.js&logoColor=FFF)
 
-
-
-#### frontend
-![JavaScript](https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFF)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=redux&logoColor=FFF)
-
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=redux&logoColor=FFF)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FFF)
-![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FFF)
 <br>
 
 <img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/databases.svg" alt="databases" height="60" style="max-width: 100%;">
