@@ -50,9 +50,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=FFF)
 <br>
 
-<img src="https://raw.githubusercontent.com/y0f/y0f/1f3809fa9a7a7ccd1de1cdcaaa6014003fc13a01/findmeon.svg" alt="find me" height="60" style="max-width: 100%;">
 
-[![GitHub](https://img.shields.io/badge/instagram-black?logo=instagram&style=for-the-badge&logoColor=FFF)](https://instagram.com/aarde)
 
 
 </div>
