@@ -21,9 +21,9 @@
 
 ##### frontend
 ![JavaScript](https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFF)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=redux&logoColor=FFF)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=FFF)
 
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=redux&logoColor=FFF)
+![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js&logoColor=FFF)
 ![Livewire](https://img.shields.io/badge/livewire-black.svg?logo=livewire&style=for-the-badge&logoColor=FFF)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-black.svg?&style=for-the-badge&logo=alpine.js&logoColor=FFF)
 ![Tailwind](https://img.shields.io/badge/tailwind-black.svg?&style=for-the-badge&logo=tailwind-css&logoColor=FFF)
